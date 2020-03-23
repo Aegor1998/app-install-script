@@ -1,0 +1,19 @@
+#Created March 22nd 2020
+#Gui Apps
+sudo pacman -S keepassxc steam-manjaro vocal beaker foldingathome
+#Firefox and Extensions
+  #Find a way to download Ghostery or something similar
+sudo pacman -S firefox firefox-extension-keepassxc-browser firefox-extension-multi-account-containers
+#Lutris and Dependencies
+sudo pacman -S lutris lutris-world-of-warcraft-dependencies-nvidia
+#Snap
+sudo snap install rambox
+sudo snap install electronplayer
+#FlatPak
+sudo flatpak install flathub com.github.tchx84.Flatseal
+sudo flatpak install flathub com.axosoft.GitKraken
+#Github
+#Utilities
+sudo pacman -S syncthing-gtk htop vim
+#Misc
+sudo pacman -S foldingathome
